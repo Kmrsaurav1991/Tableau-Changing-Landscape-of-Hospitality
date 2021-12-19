@@ -16,4 +16,4 @@ Below files uses in building this tableau story.
 1. tableau_dataset zip file - There is all excel files and images .
 2. Changing_Landscape_of_Hospitality.twbx- tableau file with extract data, directly open through tableau.
 
-find the public visualization: https://public.tableau.com/app/profile/kumar.saurav6886/viz/ChangingLandscapeinHospitality_16398836717890/ChangingLandscapeinHospitality
+find the public visualization: https://public.tableau.com/views/ChangingLandscapeinHospitality_16398836717890/ChangingLandscapeinHospitality?:language=en-US&:display_count=n&:origin=viz_share_link
